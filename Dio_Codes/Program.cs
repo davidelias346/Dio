@@ -9,8 +9,6 @@ namespace DigitalInnoavationOne{
             {
                 Console.WriteLine(i*2);
             
-            
-            
             }
             
         }
